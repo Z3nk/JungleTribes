@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F9AD8B10-1B2A-491A-ACC1-2A1AF94ABBF9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JungleTribesImplementation</RootNamespace>
+    <AssemblyName>JungleTribesImplementation</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bullet.cs" />
+    <Compile Include="Chaman\Chaman.cs" />
+    <Compile Include="Chaman\ChamanAide.cs" />
+    <Compile Include="Chaman\ChamanBenediction.cs" />
+    <Compile Include="Chaman\ChamanBlocage.cs" />
+    <Compile Include="Chaman\ChamanBullet.cs" />
+    <Compile Include="Chaman\ChamanSoin.cs" />
+    <Compile Include="Chaman\SkillChamanAide.cs" />
+    <Compile Include="Chaman\SkillChamanBenediction.cs" />
+    <Compile Include="Chaman\SkillChamanBlocage.cs" />
+    <Compile Include="Chaman\SkillChamanSoin.cs" />
+    <Compile Include="ClientListElements.cs" />
+    <Compile Include="Element.cs" />
+    <Compile Include="ElementDynamic.cs" />
+    <Compile Include="ElementManager.cs" />
+    <Compile Include="Geometry.cs" />
+    <Compile Include="Guerrier\Charge.cs" />
+    <Compile Include="Guerrier\EP.cs" />
+    <Compile Include="Guerrier\Guerrier.cs" />
+    <Compile Include="Guerrier\Shield.cs" />
+    <Compile Include="Guerrier\SkillCharge.cs" />
+    <Compile Include="Guerrier\SkillEP.cs" />
+    <Compile Include="Guerrier\SkillGuerrierAutoShot.cs" />
+    <Compile Include="Guerrier\SkillGuerrierShield.cs" />
+    <Compile Include="Guerrier\SkillTourbiLol.cs" />
+    <Compile Include="Guerrier\TourbiLol.cs" />
+    <Compile Include="Guerrier\WarriorAttack.cs" />
+    <Compile Include="Hero.cs" />
+    <Compile Include="ListElements.cs" />
+    <Compile Include="Mage\Mage.cs" />
+    <Compile Include="Mage\MageAutoShot.cs" />
+    <Compile Include="Mage\MageBlizzard.cs" />
+    <Compile Include="Mage\MageBullet.cs" />
+    <Compile Include="Mage\MageExplosion.cs" />
+    <Compile Include="Mage\MageFire.cs" />
+    <Compile Include="Mage\MageFoudre.cs" />
+    <Compile Include="Mage\MageTeleport.cs" />
+    <Compile Include="MessageHeroTeam.cs" />
+    <Compile Include="MessageSelectionHero.cs" />
+    <Compile Include="MessageSkillLaunched.cs" />
+    <Compile Include="MessageUserCommand.cs" />
+    <Compile Include="ServerListElements.cs" />
+    <Compile Include="MessageUpdateElements.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Skill.cs" />
+    <Compile Include="Chaman\SkillChamanAutoShot.cs" />
+    <Compile Include="Mage\SkillMageBlizzard.cs" />
+    <Compile Include="Mage\SkillMageFire.cs" />
+    <Compile Include="Mage\SkillMageFoudre.cs" />
+    <Compile Include="Teleport.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GameNetwork\GameNetwork.csproj">
+      <Project>{4910D093-665F-4432-A99B-5D09D4C3CA72}</Project>
+      <Name>GameNetwork</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

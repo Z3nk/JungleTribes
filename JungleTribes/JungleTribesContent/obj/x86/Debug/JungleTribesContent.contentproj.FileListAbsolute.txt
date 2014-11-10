@@ -1,0 +1,6 @@
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\JungleTribes\JungleTribes\JungleTribesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribesContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribesContent\obj\x86\Debug\ResolveAssemblyReference.cache

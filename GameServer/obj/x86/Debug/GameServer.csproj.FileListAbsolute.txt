@@ -1,0 +1,59 @@
+F:\JungleTribes\GameServer\bin\Debug\GameServer.exe
+F:\JungleTribes\GameServer\bin\Debug\GameServer.pdb
+F:\JungleTribes\GameServer\bin\Debug\GameNetwork.dll
+F:\JungleTribes\GameServer\bin\Debug\GameNetwork.pdb
+F:\JungleTribes\GameServer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\JungleTribes\GameServer\obj\x86\Debug\GameServer.exe
+F:\JungleTribes\GameServer\obj\x86\Debug\GameServer.pdb
+C:\Users\Joannick\Desktop\JungleTribes\GameServer\obj\x86\Debug\GameServer.exe
+C:\Users\Joannick\Desktop\JungleTribes\GameServer\obj\x86\Debug\GameServer.pdb
+C:\Users\Joannick\Desktop\JungleTribes\GameServer\bin\Debug\GameServer.exe
+C:\Users\Joannick\Desktop\JungleTribes\GameServer\bin\Debug\GameServer.pdb
+C:\Users\Joannick\Desktop\JungleTribes\GameServer\bin\Debug\GameNetwork.dll
+C:\Users\Joannick\Desktop\JungleTribes\GameServer\bin\Debug\GameNetwork.pdb
+C:\Users\Joannick\Desktop\JungleTribes\GameServer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\JungleTribes\GameServer\bin\Debug\JungleTribesImplementation.dll
+F:\JungleTribes\GameServer\bin\Debug\JungleTribesImplementation.pdb
+C:\Users\Joannick\Desktop\JungleTribes\GameServer\bin\Debug\JungleTribesImplementation.dll
+C:\Users\Joannick\Desktop\JungleTribes\GameServer\bin\Debug\JungleTribesImplementation.pdb
+D:\Developpement\C#\JungleTribes\GameServer\obj\x86\Debug\GameServer.exe
+D:\Developpement\C#\JungleTribes\GameServer\obj\x86\Debug\GameServer.pdb
+D:\Developpement\C#\JungleTribes\GameServer\bin\Debug\GameServer.exe
+D:\Developpement\C#\JungleTribes\GameServer\bin\Debug\GameServer.pdb
+D:\Developpement\C#\JungleTribes\GameServer\bin\Debug\GameNetwork.dll
+D:\Developpement\C#\JungleTribes\GameServer\bin\Debug\JungleTribesImplementation.dll
+D:\Developpement\C#\JungleTribes\GameServer\bin\Debug\GameNetwork.pdb
+D:\Developpement\C#\JungleTribes\GameServer\bin\Debug\JungleTribesImplementation.pdb
+D:\Developpement\C#\JungleTribes\GameServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\C# .NET\JungleTribes\GameServer\obj\x86\Debug\GameServer.exe
+C:\Dev\C# .NET\JungleTribes\GameServer\obj\x86\Debug\GameServer.pdb
+C:\Dev\C# .NET\JungleTribes\GameServer\bin\Debug\GameServer.exe
+C:\Dev\C# .NET\JungleTribes\GameServer\bin\Debug\GameServer.pdb
+C:\Dev\C# .NET\JungleTribes\GameServer\bin\Debug\GameNetwork.dll
+C:\Dev\C# .NET\JungleTribes\GameServer\bin\Debug\JungleTribesImplementation.dll
+C:\Dev\C# .NET\JungleTribes\GameServer\bin\Debug\GameNetwork.pdb
+C:\Dev\C# .NET\JungleTribes\GameServer\bin\Debug\JungleTribesImplementation.pdb
+C:\Dev\C# .NET\JungleTribes\GameServer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\JungleTribes\GameServer\bin\Debug\GameServer.exe.manifest
+F:\JungleTribes\GameServer\bin\Debug\GameServer.application
+F:\JungleTribes\GameServer\obj\x86\Debug\GameServer.exe.manifest
+F:\JungleTribes\GameServer\obj\x86\Debug\GameServer.application
+C:\Users\Zunk\Desktop\JungleTribes\GameServer\obj\x86\Debug\GameServer.exe
+C:\Users\Zunk\Desktop\JungleTribes\GameServer\obj\x86\Debug\GameServer.pdb
+C:\Users\Zunk\Desktop\JungleTribes\GameServer\bin\Debug\GameServer.exe
+C:\Users\Zunk\Desktop\JungleTribes\GameServer\bin\Debug\GameServer.pdb
+C:\Users\Zunk\Desktop\JungleTribes\GameServer\bin\Debug\GameNetwork.dll
+C:\Users\Zunk\Desktop\JungleTribes\GameServer\bin\Debug\JungleTribesImplementation.dll
+C:\Users\Zunk\Desktop\JungleTribes\GameServer\bin\Debug\GameNetwork.pdb
+C:\Users\Zunk\Desktop\JungleTribes\GameServer\bin\Debug\JungleTribesImplementation.pdb
+C:\Users\Zunk\Desktop\JungleTribes\GameServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zunk\Desktop\JungleTribes\GameServer\bin\Debug\GameServer.exe.manifest
+C:\Users\Zunk\Desktop\JungleTribes\GameServer\bin\Debug\GameServer.application
+C:\Users\Zunk\Desktop\JungleTribes\GameServer\obj\x86\Debug\GameServer.TrustInfo.xml
+C:\Users\Zunk\Desktop\JungleTribes\GameServer\obj\x86\Debug\GameServer.exe.manifest
+C:\Users\Zunk\Desktop\JungleTribes\GameServer\obj\x86\Debug\GameServer.application
+C:\Users\Joannick\Desktop\JungleTribes\GameServer\bin\Debug\GameServer.exe.manifest
+C:\Users\Joannick\Desktop\JungleTribes\GameServer\bin\Debug\GameServer.application
+C:\Users\Joannick\Desktop\JungleTribes\GameServer\obj\x86\Debug\GameServer.TrustInfo.xml
+C:\Users\Joannick\Desktop\JungleTribes\GameServer\obj\x86\Debug\GameServer.exe.manifest
+C:\Users\Joannick\Desktop\JungleTribes\GameServer\obj\x86\Debug\GameServer.application

@@ -1,0 +1,278 @@
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Default.xnb
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Green.xnb
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Default.xnb
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Green.xnb
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\font.xnb
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\support_Button.xnb
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\support_Button_haut.xnb
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\titre1.xnb
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.xnb
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.wma
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Default.skin
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Green.skin
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Default.skin
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Green.skin
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\font.jpg
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\support_Button.jpg
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\support_Button_haut.jpg
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\titre1.png
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.mp3
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribes.exe
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribes.pdb
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\JungleTribes.exe
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\JungleTribes.pdb
+D:\ArenaGame\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Police\font.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Default.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Green.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Default.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Green.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Police\font.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.wma
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Default.skin
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Green.skin
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Default.skin
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Green.skin
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.mp3
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribes.exe
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribes.pdb
+F:\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\JungleTribes.exe
+F:\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\JungleTribes.pdb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\font.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button_haut.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\titre1.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\font.jpg
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button.jpg
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button_haut.jpg
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\titre1.png
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\herbe.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\herbe_S.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\ground3.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\herbe_S2.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\GameNetwork.dll
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\GameNetwork.pdb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\Loading.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\bonhomme.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Default.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Green.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Default.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Green.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\font.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button_haut.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\titre1.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\herbe.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\herbe_S.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\ground3.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\herbe_S2.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\Loading.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\bonhomme.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Police\font.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.wma
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Default.skin
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Green.skin
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Default.skin
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Green.skin
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\font.jpg
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button.jpg
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button_haut.jpg
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\titre1.png
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.mp3
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribes.exe
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribes.pdb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\GameNetwork.dll
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\GameNetwork.pdb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\JungleTribes.exe
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\JungleTribes.pdb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\bonhomme.png
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribesImplementation.dll
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribesImplementation.pdb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\bonhomme.png
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribesImplementation.dll
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribesImplementation.pdb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Default.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Green.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Default.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Green.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\font.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button_haut.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\titre1.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\herbe.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\herbe_S.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\ground3.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\herbe_S2.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\Loading.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\bonhomme.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Police\font.xnb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.wma
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Default.skin
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Green.skin
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Default.skin
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Green.skin
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\font.jpg
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button.jpg
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button_haut.jpg
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\titre1.png
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.mp3
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\bonhomme.png
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribes.exe
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribes.pdb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\GameNetwork.dll
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribesImplementation.dll
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\GameNetwork.pdb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribesImplementation.pdb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\JungleTribes.exe
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\JungleTribes.pdb
+D:\Developpement\C#\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Police\selectionHero.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\JungleTribes.exe
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\JungleTribes.pdb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Default.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Green.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Default.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Green.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\font.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button_haut.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\titre1.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\herbe.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\herbe_S.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\ground3.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\herbe_S2.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\Loading.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\bonhomme.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Police\font.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Police\selectionHero.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.wma
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Default.skin
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Green.skin
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Default.skin
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Green.skin
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\font.jpg
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button.jpg
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button_haut.jpg
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\titre1.png
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.mp3
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\bonhomme.png
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribes.exe
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribes.pdb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\GameNetwork.dll
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribesImplementation.dll
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\GameNetwork.pdb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribesImplementation.pdb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Police\selectionHero.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\mage_bullet.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\blizzard.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\foudre.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\hp.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\mage_fire.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\explosion.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\soin.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\blocage.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\aide.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\mage_fire.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\blizzard.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\foudre.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\hp.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\mage_bullet.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\explosion.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\soin.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\blocage.xnb
+C:\Dev\C# .NET\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\aide.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\mage_fire.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\blizzard.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\foudre.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\hp.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\mage_bullet.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\explosion.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\soin.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\blocage.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\aide.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Police\selectionHero.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\coupepee.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\Shield.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\charge.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\sword.xnb
+F:\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\tourbilol.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Default.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Green.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Default.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Green.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\font.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button_haut.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\titre1.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\herbe.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\herbe_S.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\ground3.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Map\herbe_S2.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\Loading.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\bonhomme.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\mage_fire.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\blizzard.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\foudre.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\hp.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\mage_bullet.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\explosion.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\soin.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\blocage.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\aide.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\coupepee.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\Shield.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\charge.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\sword.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\tourbilol.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Police\font.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Police\selectionHero.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.wma
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Default.skin
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\360\Green.skin
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Default.skin
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Skins\Green.skin
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\font.jpg
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button.jpg
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\support_Button_haut.jpg
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Menu\titre1.png
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Musique\musiqueMenu.mp3
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\bonhomme.png
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribes.exe
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribes.pdb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\GameNetwork.dll
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribesImplementation.dll
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\GameNetwork.pdb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\JungleTribesImplementation.pdb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\JungleTribes.exe
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\obj\x86\Debug\JungleTribes.pdb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\Guerrier.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\Guerrier2.xnb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\Guerrier3.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\coupepee.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\Shield.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\charge.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\sword.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\tourbilol.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\Guerrier.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\Guerrier2.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\Guerrier3.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\chaman.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\mage.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\lifebar.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\teleport.xnb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribes\JungleTribes\bin\x86\Debug\Content\Image\Jeu\Element\benediction.xnb

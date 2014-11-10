@@ -1,0 +1,25 @@
+F:\JungleTribes\GameNetwork\bin\Debug\GameNetwork.dll
+F:\JungleTribes\GameNetwork\bin\Debug\GameNetwork.pdb
+F:\JungleTribes\GameNetwork\obj\Debug\ResolveAssemblyReference.cache
+F:\JungleTribes\GameNetwork\obj\Debug\GameNetwork.dll
+F:\JungleTribes\GameNetwork\obj\Debug\GameNetwork.pdb
+C:\Users\Joannick\Desktop\JungleTribes\GameNetwork\bin\Debug\GameNetwork.dll
+C:\Users\Joannick\Desktop\JungleTribes\GameNetwork\bin\Debug\GameNetwork.pdb
+C:\Users\Joannick\Desktop\JungleTribes\GameNetwork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joannick\Desktop\JungleTribes\GameNetwork\obj\Debug\GameNetwork.dll
+C:\Users\Joannick\Desktop\JungleTribes\GameNetwork\obj\Debug\GameNetwork.pdb
+D:\Developpement\C#\JungleTribes\GameNetwork\bin\Debug\GameNetwork.dll
+D:\Developpement\C#\JungleTribes\GameNetwork\bin\Debug\GameNetwork.pdb
+D:\Developpement\C#\JungleTribes\GameNetwork\obj\Debug\ResolveAssemblyReference.cache
+D:\Developpement\C#\JungleTribes\GameNetwork\obj\Debug\GameNetwork.dll
+D:\Developpement\C#\JungleTribes\GameNetwork\obj\Debug\GameNetwork.pdb
+C:\Dev\C# .NET\JungleTribes\GameNetwork\bin\Debug\GameNetwork.dll
+C:\Dev\C# .NET\JungleTribes\GameNetwork\bin\Debug\GameNetwork.pdb
+C:\Dev\C# .NET\JungleTribes\GameNetwork\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\C# .NET\JungleTribes\GameNetwork\obj\Debug\GameNetwork.dll
+C:\Dev\C# .NET\JungleTribes\GameNetwork\obj\Debug\GameNetwork.pdb
+C:\Users\Zunk\Desktop\JungleTribes\GameNetwork\bin\Debug\GameNetwork.dll
+C:\Users\Zunk\Desktop\JungleTribes\GameNetwork\bin\Debug\GameNetwork.pdb
+C:\Users\Zunk\Desktop\JungleTribes\GameNetwork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zunk\Desktop\JungleTribes\GameNetwork\obj\Debug\GameNetwork.dll
+C:\Users\Zunk\Desktop\JungleTribes\GameNetwork\obj\Debug\GameNetwork.pdb

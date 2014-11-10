@@ -1,0 +1,35 @@
+F:\JungleTribes\JungleTribesImplementation\bin\Debug\JungleTribesImplementation.dll
+F:\JungleTribes\JungleTribesImplementation\bin\Debug\JungleTribesImplementation.pdb
+F:\JungleTribes\JungleTribesImplementation\bin\Debug\GameNetwork.dll
+F:\JungleTribes\JungleTribesImplementation\bin\Debug\GameNetwork.pdb
+F:\JungleTribes\JungleTribesImplementation\obj\Debug\ResolveAssemblyReference.cache
+F:\JungleTribes\JungleTribesImplementation\obj\Debug\JungleTribesImplementation.dll
+F:\JungleTribes\JungleTribesImplementation\obj\Debug\JungleTribesImplementation.pdb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribesImplementation\bin\Debug\JungleTribesImplementation.dll
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribesImplementation\bin\Debug\JungleTribesImplementation.pdb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribesImplementation\bin\Debug\GameNetwork.dll
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribesImplementation\bin\Debug\GameNetwork.pdb
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribesImplementation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribesImplementation\obj\Debug\JungleTribesImplementation.dll
+C:\Users\Joannick\Desktop\JungleTribes\JungleTribesImplementation\obj\Debug\JungleTribesImplementation.pdb
+D:\Developpement\C#\JungleTribes\JungleTribesImplementation\bin\Debug\JungleTribesImplementation.dll
+D:\Developpement\C#\JungleTribes\JungleTribesImplementation\bin\Debug\JungleTribesImplementation.pdb
+D:\Developpement\C#\JungleTribes\JungleTribesImplementation\bin\Debug\GameNetwork.dll
+D:\Developpement\C#\JungleTribes\JungleTribesImplementation\bin\Debug\GameNetwork.pdb
+D:\Developpement\C#\JungleTribes\JungleTribesImplementation\obj\Debug\ResolveAssemblyReference.cache
+D:\Developpement\C#\JungleTribes\JungleTribesImplementation\obj\Debug\JungleTribesImplementation.dll
+D:\Developpement\C#\JungleTribes\JungleTribesImplementation\obj\Debug\JungleTribesImplementation.pdb
+C:\Dev\C# .NET\JungleTribes\JungleTribesImplementation\bin\Debug\JungleTribesImplementation.dll
+C:\Dev\C# .NET\JungleTribes\JungleTribesImplementation\bin\Debug\JungleTribesImplementation.pdb
+C:\Dev\C# .NET\JungleTribes\JungleTribesImplementation\bin\Debug\GameNetwork.dll
+C:\Dev\C# .NET\JungleTribes\JungleTribesImplementation\bin\Debug\GameNetwork.pdb
+C:\Dev\C# .NET\JungleTribes\JungleTribesImplementation\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\C# .NET\JungleTribes\JungleTribesImplementation\obj\Debug\JungleTribesImplementation.dll
+C:\Dev\C# .NET\JungleTribes\JungleTribesImplementation\obj\Debug\JungleTribesImplementation.pdb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribesImplementation\bin\Debug\JungleTribesImplementation.dll
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribesImplementation\bin\Debug\JungleTribesImplementation.pdb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribesImplementation\bin\Debug\GameNetwork.dll
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribesImplementation\bin\Debug\GameNetwork.pdb
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribesImplementation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribesImplementation\obj\Debug\JungleTribesImplementation.dll
+C:\Users\Zunk\Desktop\JungleTribes\JungleTribesImplementation\obj\Debug\JungleTribesImplementation.pdb
